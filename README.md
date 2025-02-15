@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahabcb
+- 👋 hi
 - 👀 I’m interested in code, internet, watercolor and spirituality 
 - 🌱 I’m currently learning Symfony & ReactJs 
 - 💞️ I’m looking to collaborate on ...
